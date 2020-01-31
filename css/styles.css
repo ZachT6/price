@@ -87,7 +87,7 @@ Monthly Subscription Section
 .monthly-copy a{
 	display: block;
 	margin-top: 25px;
-	background-color: hsl(71, 73% 54%);
+	background-color: hsl(71, 73%, 54%);
 	color: #fff;
 	width: 100%;
 	padding: 15px 0;
